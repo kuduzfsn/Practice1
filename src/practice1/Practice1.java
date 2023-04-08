@@ -7,6 +7,14 @@ public class Practice1 {
 		System.out.println("First Message to GitHub");
 		
 		
+		
+		
+	}
+	
+	public void divide() {
+		
+		System.out.println(10/2);
+		
 	}
 
 }
